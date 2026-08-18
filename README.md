@@ -209,7 +209,7 @@ Built microcontroller-based hardware, designed circuits, and implemented sensor 
 </details>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sirsatshubham9359&theme=redical&hide_border=true&bg_color=1e1b4b&color=a855f7&line=c084fc&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sirsatshubham9359&theme=radical&hide_border=true&bg_color=1e1b4b&color=a855f7&line=c084fc&point=ffffff"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
